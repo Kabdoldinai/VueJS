@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="lg" type="light" variant="info">
       <b-button class="button-menu" variant="primary" v-b-toggle.sidebar-1>Menu</b-button>
-      <b-button class="button-menu" variant="primary" router-link to="/Home">Home</b-button>
+      <b-button class="button-menu" variant="primary" router-link to="/">Home</b-button>
     </b-navbar>
   </div>
 </template> 
